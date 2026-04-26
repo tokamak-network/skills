@@ -1,0 +1,8 @@
+{
+  "name": "tokamak-skills",
+  "version": "1.0.0",
+  "description": "Tokamak Network team skills: Docker cleanup, Codex review, agent cleanup, web search, and more",
+  "author": { "name": "tokamak-network" },
+  "repository": "https://github.com/tokamak-network/skills",
+  "license": "MIT"
+}
